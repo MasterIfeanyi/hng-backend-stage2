@@ -2,20 +2,20 @@
 
 ## Name: Ifeanyi Chima
 
-## Language: JavaScript
-
 ## Email: chimaifeanyi29@gmail.com
 
-## Stage 2 Task
+## API_URL: [API_Deployment_URL](https://hng-backend-stage2-production.up.railway.app/)
 
 ### Task Description
 
 Build a demographic intelligence API that provides advanced filtering, sorting, pagination, and natural language search capabilities for profile data.
 
+**API URL**: https://hng-backend-stage2-production.up.railway.app/
+
 ### API Endpoints
 
 - `/api/profiles` - Fetch profiles with filtering, sorting, and pagination.
-- `[Your deployed URL will go here]` with your actual deployed URL (after next checkpoint)
+- API URL: `https://hng-backend-stage2-production.up.railway.app/`
 - GitHub account: [IfeanyiChima](https://github.com/masterifeanyi)
 - Repo URL: [HNG stage 2 backend](https://github.com/MasterIfeanyi/hng-backend-stage2)
 
